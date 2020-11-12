@@ -1,5 +1,5 @@
 # LVAT
-The code used in the evaluation of Latent Space Virtual Adversarial Training.
+The code used in the evaluation of Latent Space Virtual Adversarial Training (ECCV 2020 Oral).
 
 ## Reference
 This code is written based on the original VAT implementation (see [here](https://github.com/takerum/vat_tf)),  
